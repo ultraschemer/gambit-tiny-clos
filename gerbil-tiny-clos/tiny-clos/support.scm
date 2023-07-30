@@ -40,7 +40,7 @@
 ; Others are more pressing, like define-macro.
 ;
 ;
-
+package: tiny-clos
 (import :tiny-clos/sorting)
 (export #t)
 
