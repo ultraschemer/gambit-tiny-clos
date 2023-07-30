@@ -11,7 +11,7 @@ Usage:
 
 or
 
-```
+```scheme
 (##include "~~lib/tiny-clos/core.scm")
 ```
 
