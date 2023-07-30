@@ -1,6 +1,6 @@
 # Usage
 
-Just copy the folder tiny-clos to the "~~/lib" directory of your gambit 
+Just copy the folder tiny-clos to the "~~lib" directory of your gambit 
 installation.
 
 Usage:
